@@ -4,4 +4,4 @@ __pycache__/
 # Jupyter Notebook
 .ipynb_checkpoints
 
-data/glove6B.100d.txt
+data/glove.6B.100d.txt
